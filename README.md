@@ -52,10 +52,10 @@ This repository showcases an interactive **Power BI Dashboard** created as part 
 
 ### Dashboard Previews  
 #### Report Summary Page  
-![Report Summary](Report%20Summary%20Page.JPG)
+![Report Summary](Images/Report%20Summary%20Page.JPG)
 
 #### Monthly Report Page  
-![Monthly Report](Monthly%20Report%20Page.JPG)
+![Monthly Report](Images/Monthly%20Report%20Page.JPG)
 
 ---
 
