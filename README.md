@@ -38,7 +38,8 @@ This repository showcases an interactive **Power BI Dashboard** created as part 
   The dataset used in this project was generated using ChatGPT with custom prompts, including:  
   - **12,000+ sales records.**  
   - **200 customer profiles.**  
-  - Detailed product and category data.  
+  - Detailed product and category data.
+  - Link for dataset: [Dataset Link](https://github.com/Tanvir-Taushif/free-datasets-for-learning/tree/main/Dream%20Supershop%20Dataset)  
 
 ---
 
