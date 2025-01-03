@@ -74,7 +74,7 @@ This project is a part of my learning journey, and I’d love to hear your thoug
 ---
 
 ### 🔗 Connect with Me
-If you’d like to see a video demonstration of the dashboard in action, check out my [LinkedIn Post](#). (Replace `#` with the actual LinkedIn post link.)  
+If you’d like to see a video demonstration of the dashboard in action, check out my [LinkedIn Post](https://www.linkedin.com/posts/tanvir-taushif-751044204_dataanalytics-powerbi-datavisualization-activity-7280804026244349953-Ib2B?utm_source=share&utm_medium=member_desktop). (Replace `#` with the actual LinkedIn post link.)  
 
 ---
 
